@@ -63,6 +63,6 @@ public class Coin extends GenericCoin{
 	{
 		return type + ":" +value;
 	}
-	}
+	
 }
 
